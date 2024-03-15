@@ -1,4 +1,4 @@
-[![MasterHead](https://miro.medium.com/v2/resize:fit:870/1*14v1pUZwr516557dpS-oYw.jpeg)
+[![MasterHead](https://cdni.iconscout.com/illustration/premium/thumb/woman-working-on-data-analysis-5405129-4525621.png)
 <h1 align="center">Hi 👋, I'm Balapavithra</h1>
 <h3 align="center">A passionate Data scientist from India</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/9d/cb/36/9dcb36579d4518b31451906466dc735d.gif">
